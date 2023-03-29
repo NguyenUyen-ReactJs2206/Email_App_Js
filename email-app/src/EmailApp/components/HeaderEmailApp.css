@@ -1,0 +1,31 @@
+.slide-bar_folder {
+    width: 100px;
+}
+
+.slide-bar_folder button {
+    border: none;
+    
+}
+
+.slide-bar_folder button:hover{
+    background-color: blue;
+    color: white;
+}
+
+.slide-bar_folder .messages-link {
+    text-decoration: none;
+    color: black;
+}
+
+.slide-bar_folder .messages-link:hover {
+    text-decoration: none;
+    color: white;
+}
+
+.table-list-email {
+    width: 100%;
+}
+.messages-link_active {
+    background-color: blue;
+    color: white;
+}
